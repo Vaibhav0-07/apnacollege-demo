@@ -1,0 +1,10 @@
+body {
+   background-image: url(http://127.0.0.1:5500/back.jpg); 
+}
+body{
+    border: 2px solid black;
+    padding: 10px 20px 10px 20px ;
+    margin:  auto ;
+    
+}
+
